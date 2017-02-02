@@ -1,0 +1,139 @@
+CalleSalida
+Salida,0,
+CalleEstandar
+GRAVEYARD,1,60,VIOLETA,7
+CalleCarta
+COMMUNITY CHEST,2
+CalleEstandar
+ALLEYWAY,3,60,VIOLETA,8
+CalleImpuestos
+MEDICAL SUPPLIES,4
+CalleEstaciones
+KINGS CROSS GAVEYARD,5,200
+CalleEstandar
+REALITY TV,6,100,AZUL,10
+CalleCarta
+CHANCE,7
+CalleEstandar
+ZOMBIE STREET,8,100,AZUL,10
+CalleEstandar
+ZOMBIE FEST,9,120,AZUL,12
+CalleCarcel
+Carcel,10
+CalleEstandar
+PUBLIC TOILET,11,140,MORADO,14
+CalleServicios
+ZOMBIE MOVIE STUDIO,12,150
+CalleEstandar
+PLAYGROUND,13,140,MORADO,14
+CalleEstandar
+UNDEAD DENTIST,14,160,MORADO,16
+CalleEstaciones
+MARYLEBONE GRAVEYARD,15,200
+CalleEstandar
+THE MALL,16,180,NARANJA,18
+CalleCarta
+COMMUNITY CHEST,17
+CalleEstandar
+THE SAUNA,18,180,NARANJA,18
+CalleEstandar
+THE BANK,19,200,NARANJA,20
+CalleParking
+ZOMBIE FREE ZONE,20
+CalleEstandar
+LAST SUPPER,21,220,ROJO,22
+CalleCarta
+CHANCE,22
+CalleEstandar
+PARIS,23,200,ROJO,22
+CalleEstandar
+HAPPY FOREST,24,220,ROJO,24
+CalleEstaciones
+FENCHURCH ST GRAVEYARD,25,200
+CalleEstandar
+HOLLYWOOD,26,260,AMARILLO,26
+CalleEstandar
+GORE LANE,27,260,AMARILLO,26
+CalleServicios
+SCARIY MOVIE CINEMAS,28,150
+CalleEstandar
+LONELY HOUSE,29,280,AMARILLO,28
+CalleCarcel
+INFECTED!,30
+CalleEstandar
+THE BUTCHERS,31,300,VERDE,30
+CalleEstandar
+ZOMBIE LODGE,32,300,VERDE,30
+CalleCarta
+COMMUNITY CHEST,33
+CalleEstandar
+ESCAPE HATCH,34,320,VERDE,32
+CalleEstaciones
+LIVERPOOL ST GRAVEYARD,35,200
+CalleCarta
+CHANCE,36
+CalleEstandar
+TOY SHOP,37,350,LILA,35
+CalleImpuestos
+WEAPON SUPPLIES,38
+CalleEstandar
+ZOMBIELAND,39,400,LILA,40
+
+CartaSaldo
+100,cobra, Recibes los beneficios por tus intereses
+CartaSaldo
+150,paga, Multa por embriaguez
+CartaSaldo
+150,paga, Paga la factura del médico
+CartaSaldo
+120,cobra, Recibes la paga extra de navidad
+CartaSaldo
+100,cobra, Has ganado el certamen de belleza
+CartaSaldo
+50,paga, Gastos universitarios
+CartaSaldo
+100,paga, Has perdido una apuesta
+CartaSaldo
+75,paga, Gastos por desplazamiento
+CartaSaldo
+100,paga, Has perdido la cartera, en ese momento llevabas 100€
+CartaSaldo
+120,cobra, Has ganado el premio al freelance del año
+CartaMovimiento
+30, Ve a la carcel. En caso de pasar por la calle de salida no cobras.
+CartaMovimiento
+0, Ve a la salida. Cobra.
+CartaMovimiento
+15, Ve a la casilla "MARYLEBONE GRAVEYARD"
+CartaMovimiento
+30, Ve a la carcel. En caso de pasar por la calle de salida no cobras.
+CartaMovimiento
+18, Ve a la casilla "THE SAUNA"
+CartaMovimiento
+38, Ve a la casilla "WEAPON SUPPLIES"
+CartaMovimiento
+0, Ve a la salida. Cobra.
+CartaMovimiento
+10, Ve a la carcel. Solo de visita.
+CartaMovimiento
+16, Ve a la calle "THE MALL"
+CartaMovimiento
+30, Ve a la carcel. En caso de pasar por la salida no cobras.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

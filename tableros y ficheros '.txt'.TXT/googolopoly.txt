@@ -1,0 +1,139 @@
+CalleSalida
+Salida,0,
+CalleEstandar
+LOOPT,1,60,VIOLETA,7
+CalleCarta
+SUERTE,2
+CalleEstandar
+SCRIBD,3,60,VIOLETA,8
+CalleImpuestos
+Fctura de internet,4
+CalleEstaciones
+ANDROID MOBILE PLATFORM,5,200
+CalleEstandar
+BLOGSPOT,6,100,AZUL,10
+CalleCarta
+SUERTE,7
+CalleEstandar
+JOTSPOT,8,100,AZUL,10
+CalleEstandar
+WRITELY,9,120,AZUL,12
+CalleCarcel
+Carcel,10
+CalleEstandar
+KEYHOLE,11,140,MORADO,14
+CalleServicios
+GOOGLE,12,150
+CalleEstandar
+SKETCHUP,13,140,MORADO,14
+CalleEstandar
+YOUTUBE,14,160,MORADO,16
+CalleEstaciones
+DESKTOP PLATFORM,15,200
+CalleEstandar
+URCHIN,16,180,NARANJA,18
+CalleCarta
+SUERTE,17
+CalleEstandar
+GRAND CENTRAL,18,180,NARANJA,18
+CalleEstandar
+DOUBLE CLICK,19,200,NARANJA,20
+CalleParking
+GOOGLE FOUNDATION,20
+CalleEstandar
+LINKEDIN,21,220,ROJO,22
+CalleCarta
+SUERTE,22
+CalleEstandar
+BOX.NET,23,200,ROJO,22
+CalleEstandar
+FACEBOOK,24,220,ROJO,24
+CalleEstaciones
+SOCIAL PLATFORM,25,200
+CalleEstandar
+SKYPE,26,260,AMARILLO,26
+CalleEstandar
+PAYPAL,27,260,AMARILLO,26
+CalleServicios
+GOOGLE,28,150
+CalleEstandar
+EBAY,29,280,AMARILLO,28
+CalleCarcel
+Carcel,30
+CalleEstandar
+SALESFORCE.COM,31,300,VERDE,30
+CalleEstandar
+AOL,32,300,VERDE,30
+CalleCarta
+SUERTE,33
+CalleEstandar
+NEWS CORP,34,320,VERDE,32
+CalleEstaciones
+Developer platform,35,200
+CalleCarta
+SUERTE,36
+CalleEstandar
+YAHOO,37,350,LILA,35
+CalleImpuestos
+GET IN ACCIDENT,38
+CalleEstandar
+MICROSOFT,39,400,LILA,40
+
+CartaSaldo
+100,cobra, Recibes los beneficios por tus intereses
+CartaSaldo
+150,paga, Multa por embriaguez
+CartaSaldo
+150,paga, Paga la factura del médico
+CartaSaldo
+120,cobra, Recibes la paga extra de navidad
+CartaSaldo
+100,cobra, Has ganado el certamen de belleza
+CartaSaldo
+50,paga, Gastos universitarios
+CartaSaldo
+100,paga, Has perdido una apuesta
+CartaSaldo
+75,paga, Gastos por desplazamiento
+CartaSaldo
+100,paga, Has perdido la cartera, en ese momento llevabas 100€
+CartaSaldo
+120,cobra, Has ganado el premio al freelance del año
+CartaMovimiento
+30, Ve a la carcel. En caso de pasar por la calle de salida no cobras.
+CartaMovimiento
+0, Ve a la salida. Cobra.
+CartaMovimiento
+15, Ve a la casilla "DESKTOP PLATFORM"
+CartaMovimiento
+30, Ve a la carcel. En caso de pasar por la calle de salida no cobras.
+CartaMovimiento
+18, Ve a la casilla "GRAND CENTRAL"
+CartaMovimiento
+38, Ve a la casilla "GET IN AN ACCIDENT"
+CartaMovimiento
+0, Ve a la salida. Cobra.
+CartaMovimiento
+10, Ve a la carcel. Solo de visita.
+CartaMovimiento
+16, Ve a la calle "URCHIN"
+CartaMovimiento
+30, Ve a la carcel. En caso de pasar por la salida no cobras.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

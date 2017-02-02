@@ -1,0 +1,97 @@
+CalleSalida
+Salida,0,
+CalleEstandar
+Doom,1,60,VIOLETA,7
+CalleCarta
+Cofre del tesoro,2
+CalleEstandar
+Lemmings,3,70,VIOLETA,8
+CalleImpuestos
+Insert Coin,4
+CalleEstaciones
+Commodore 64,5,200
+CalleEstandar
+Sonic,6,100,AZUL,10
+CalleCarta
+? Block,7
+CalleEstandar
+Commander Keen,8,120,AZUL,10
+CalleEstandar
+Monkey Island,9,120,AZUL,12
+CalleCarcel
+Carcel,10
+CalleEstandar
+SimCity,11,140,MORADO,14
+CalleServicios
+Keyboard,12,150
+CalleEstandar
+Zelda,13,140,MORADO,14
+CalleEstandar
+Oregon Trail,14,160,MORADO,16
+CalleEstaciones
+NES,15,200
+CalleEstandar
+Tetris,16,180,NARANJA,18
+CalleCarta
+Cofre del tesoro,17
+CalleEstandar
+Super Mario Bros,18,180,NARANJA,18
+CalleEstandar
+Duck Hunt,19,200,NARANJA,20
+CalleParking
+Coin Return,20
+CalleEstandar
+PitFall!,21,220,ROJO,22
+CalleCarta
+? Block,22
+CalleEstandar
+Frogger,23,220,ROJO,22
+CalleEstandar
+Donkey Kong,24,240,ROJO,24
+CalleEstaciones
+Atari 2600,25,200
+CalleEstandar
+Rogue,26,260,AMARILLO,26
+CalleEstandar
+Zork,27,260,AMARILLO,26
+CalleServicios
+Joystick,28,150
+CalleEstandar
+PacMan,29,280,AMARILLO,28
+CalleCarcel
+Carcel,30
+CalleEstandar
+Asteroids,31,300,VERDE,30
+CalleEstandar
+Space Invaders,32,300,VERDE,30
+CalleCarta
+Cofre del tesoro,33
+CalleEstandar
+Pong,34,320,VERDE,32
+CalleEstaciones
+Arcade Cabinet,35,200
+CalleCarta
+? Block,36
+CalleEstandar
+Space War,37,350,LILA,35
+CalleImpuestos
+Insert Coin,38
+CalleEstandar
+Tennis,39,400,LILA,40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
