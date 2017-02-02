@@ -11,7 +11,8 @@ Decidimos elegir Monopoly por la cantidad de opciones que podíamos añadir y la
 	Existe la posibilidad, al igual que en el juego original, de edificar sobre Calles de Propiedades siempre que se posean todas las calles del tipo indicado. A diferencia del original, permitimos edificar de forma independiente, siempre que se cumpla la condición anterior mente mencionada.
 	Se gestiona la estancia en la cárcel como parte del turno, pero de forma independiente. Manteniendo al jugador hasta que obtenga dobles y salga o bien pague la multa. Dejando en manos del jugador en todo momento la toma de decisión.
   
-  ## Planificación
+  
+## Planificacion
   
 ### Josu:
 
