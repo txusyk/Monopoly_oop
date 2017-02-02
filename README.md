@@ -13,20 +13,20 @@ Decidimos elegir Monopoly por la cantidad de opciones que podíamos añadir y la
   
   ## Planificación
   
-  ###Josu:
+### Josu:
 Diseño: Diseño del diagrama de clases inicial. Diseño de los diagramas de secuencia.
 Clases: JugarPartida, Monopoly, CargarFicheros, Condena, Dado, Tablero, ListaJugadores, ListaCartas, TableroGrafico, Jugador, Teclado
 jUnits: ListaCartasTest, CartaTest, CartaMovimientoTest, CartaSaldoTest, JugadorTest, ListaCallesTest, ListaJugadoresTest, TableroTest, CondenaTest
-###David:
+### David:
 Diseño: Diagramas UML de los objetivos finales y de esta misma entrega.
 Clases: Calle, CalleCarcel, CalleCartas, CalleEstaciones, CalleEstandar, CalleImpuestos, CalleSalida, CalleParking, CartaMovimiento, CartaSaldo
 jUnits: CalleCarcelTest, CalleEstacionesTest, CalleEstandarTest, CalleImpuestosTest, CalleParkingTest, CalleSalidaTest, CalleServiciosTest, CalleTest
-###En común:
+### En común:
 Diseño: Los aspectos de diseño han sido revisados y corregidos (rediseñados) en las reuniones de grupo. Redacción de los documentos del proyecto.
 Clases: JugarPartida, Monopoly, Condena, CalleEstaciones, CalleEstandar, CalleImpuestos. Han sido revisadas entre los dos dado que son partes troncales del funcionamiento del programa.
 jUnits: Las jUnits las hemos considerado en todo momento trabajo personal. Por lo tanto no ha habido trabajo en grupo para hacerlas.
   
-  ##JUnits
+  ## JUnits
   
   Se han realizado las jUnits de todas las clases del proyecto excepto: 
 CargarFicheros: Es un cargar a medida, si nos diera cualquier problema el tablero no se crearía correctamente y por tanto el jUnit del tablero nos indicaría el fallo.
